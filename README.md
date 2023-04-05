@@ -3,7 +3,7 @@
 AULA 04 - Exercício está no seguinte repositório:
 https://github.com/projetosstachowski/ExercicioAlunoMedia
 
-AULA 05 -
+AULA 05 - O exercício está na pasta "AULA 05 - Exercício Guiado - Conta Bancária"
 
 AULA 06 - O conteúdo da aula 06 está na pasta "Aula - 29-03-2023"
 
